@@ -1,0 +1,10 @@
+db6acdcad4f7203a70069f21d3c146b0 *DESCRIPTION
+ab77b6644d68eba4f3a894369bd13fc9 *NAMESPACE
+1e938cfd6eb4bb7c6d9155f67ef42d0b *R/score.R
+bbf6dfe00da69f6e05d950a049853234 *R/score_shd.R
+1dadfb16bce11f7a41c24ee124c76b73 *data/example.rda
+92485b752dbbf33e964853c07972fe85 *man/example.Rd
+e24c0996bff7d4fa647ebbab9e4eece1 *man/score.Rd
+d526a6fb77ec8ddc69000d20265b1cfe *man/score_shd.Rd
+468d1f7b8cdadf3e89deade7a328ca3f *src/BIC_comp_dposv.c
+7750ca195dca2f1d5f3a03fd75a66f9d *src/Makevars
